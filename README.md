@@ -201,4 +201,20 @@ Outputs (per season):
 ## 8. License & Citation
   
 - When publishing or reporting results, please cite your related work and acknowledge data sources (Pecan Street, NREL NSRDB).
+- If you find this repository useful for your research, please consider citing our paper:
 
+**Plain text citation**
+
+Z. Yang, Y. R. Li, and Y. Chen,  
+"Enhancing PV Observability in Distribution Network via Dictionary Learning,"  
+*IEEE Transactions on Sustainable Energy*, to appear.
+
+**BibTeX**
+
+```bibtex
+@article{yang_pv_observability,
+  author  = {Yang, Zhao and Li, Yunwei Ryan and Chen, Yize},
+  title   = {Enhancing PV Observability in Distribution Network via Dictionary Learning},
+  journal = {IEEE Transactions on Sustainable Energy},
+  year    = {to appear}
+}
